@@ -10,7 +10,7 @@ This game requires you to install Python (written in Python version 3.7.0) and t
 If you don't have Python installed on your machine, you can download it here:
 https://www.python.org/downloads/release/python-370/
 
-Instructions on obtaining the Pygame can be found here:
+Instructions on obtaining the Pygame module can be found here:
 https://www.pygame.org/wiki/GettingStarted
 
 Go to the green code button on this repository page and click download zip file.
@@ -25,15 +25,9 @@ The game can be started by:
 ## Usage
 The game starts off with the player on the right side of the screen. The player can move up, down, right and left using the arrow keys. Note that one of the monsters enters at a random position left of the screen, watch out for him!
 
-Sample of game
+### Sample of game
+![Sample of game](https://github.com/Natasha-73/monster-game/blob/master/game-view.jpg?raw=true)
 
 ## Credits
-Images of the monsters are obtained from love.pik
 
-<a href="https://lovepik.com/images/animals.html">Png vectors created by 30000008988 - lovepik.com</a>
-
-
-
-
-
-
+<a href="https://lovepik.com/images/animals.html">Vectors created by 30000008988 - lovepik.com</a>
