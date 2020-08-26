@@ -26,7 +26,7 @@ The game can be started by:
 The game starts off with the player on the right side of the screen. The player can move up, down, right and left using the arrow keys. Note that one of the monsters enters at a random position left of the screen, watch out for him!
 
 ### Sample of game
-![Sample of game](game_view.jpg)
+![Sample of game](game_view.JPG)
 
 ## Credits
 
